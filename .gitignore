@@ -1,0 +1,5 @@
+# .gitignore
+*.log
+!hotfix.log
+/home
+hotfix/
